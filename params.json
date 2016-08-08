@@ -1,0 +1,6 @@
+{
+  "name": "Cryin'blog - Cryin.GitHub.io",
+  "tagline": "Cryin'blog",
+  "body": "<div id=\"home\" class=\"container\">\r\n\t<h1>Cryin'</h1>\r\n\t<p>Enjoy Programming,Enjoy Hacking,Enjoy life!</p>\r\n\t<h2>技术领域：</h2>\r\n\t<ul>\r\n\t\t<li>Python,JAVA,C,PHP</li> \r\n\t\t<li>Web Security Research</li> \r\n\t\t<li>Web Vulnerability Scan, Web Crawler, Vulnerability Analysis</li> \r\n\t\t<li>Cryin@insight-labs.org</li> \r\n\t</ul>\r\n\t<h2>折腾项目：</h2>\r\n\t<ul>\r\n\t\t<li><a href=\"https://github.com/Cryin/Startblog\" title=\"Github\" target=\"_blank\">Startblog Markdown博客系统</a></li>\r\n\t\t<li><a href=\"https://github.com/Cryin/Cookmail\" title=\"Github\" target=\"_blank\">Cookmail cookie邮件收取系统</a></li> \r\n\t\t<li><a href=\"https://github.com/Cryin/wafid\" title=\"Github\" target=\"_blank\">Wafid</a></li> \r\n\t\t<li><a href=\"https://github.com/Cryin/PDFTear\" target=\"_blank\">Malicious PDF document parsing tool</a></li>\r\n\t\t\r\n\t\t<li><a href=\"https://github.com/Cryin?tab=repositories\" target=\"_blank\">更多...</a></li>\r\n\t</ul>\r\n</div>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
