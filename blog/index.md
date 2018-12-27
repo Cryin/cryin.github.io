@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cryin'Blog
+title: Blog
 ---
 
 Blog posted within Cryin, listed in reverse chronological order.

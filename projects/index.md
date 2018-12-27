@@ -12,11 +12,11 @@ title: Projects
 
 # Whitepapers Projects
 
-- [Whitepapers](https://github.com/Cryin/Paper, Web Security Technology & Vulnerability Analysis Whitepapers.
+- [Whitepapers](https://github.com/Cryin/Paper), Web Security Technology & Vulnerability Analysis Whitepapers.
 
 # Coding Projects
 
 - [Startblog](https://github.com/Cryin/Startblog), a simple Markdown blog system based on the CodeIgniter!.
-- [AssetsView](https://github.com/Cryin/AssetsView, AssetsView Assets Discovery, Network Topology Management System.
+- [AssetsView](https://github.com/Cryin/AssetsView), AssetsView Assets Discovery, Network Topology Management System.
 
 
