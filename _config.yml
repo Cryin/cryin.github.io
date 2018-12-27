@@ -1,0 +1,15 @@
+# Site settings
+title: Cryin
+#weixin: CSecGroup
+description: "Cryin's blog"
+baseurl: ""
+url: "https://cryin.github.io/"
+github_username:  Cryin
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+gems: ['kramdown']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
+
+theme: minima

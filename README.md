@@ -1,2 +1,3 @@
-# Cryin'blog
-[Cryin'blog](https://cryin.github.io/)：cryin.github.io
+[Cryin's Blog Website](https://cryin.github.io/)
+
+
