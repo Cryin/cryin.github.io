@@ -1,9 +1,9 @@
 # Site settings
 title: Cryin' blog
-description: "Cryin's blog"
-baseurl: "https://cryin.github.io/"
+description: "Enjoy Programming,Enjoy Hacking,Enjoy life!"
+baseurl: ""
 url: "https://cryin.github.io/"
-github_username:  Cryin'
+github_username:  Cryin
 
 # Build settings
 markdown: kramdown
