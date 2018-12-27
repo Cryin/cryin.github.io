@@ -1,7 +1,7 @@
 # Site settings
-#title: Cryin' blog
+title: Cryin' blog
 description: "Cryin's blog"
-#baseurl: ""
+baseurl: "https://cryin.github.io/"
 url: "https://cryin.github.io/"
 github_username:  Cryin'
 
