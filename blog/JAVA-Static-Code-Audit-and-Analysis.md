@@ -3,7 +3,7 @@ layout: page
 title: JAVA Static Code Audit and Analysis
 ---
 
-* Auth：[Cryin'](https://github.com/Cryin/Paper)
+* Auth：[Cryin'](https://github.com/Cryin)
 
 ### 概述
 

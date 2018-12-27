@@ -4,7 +4,7 @@ title: SDL软件安全设计初窥
 ---
 
 
-Auth by Cryin'
+> Auth by [Cryin](https://github.com/Cryin)
 
 ## 前言
 

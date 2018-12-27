@@ -4,7 +4,7 @@ title: phpcms v9.6.0 wap SQL Injection Analysis
 ---
 
 
-* Auth：[Cryin'](https://github.com/Cryin/Paper)
+* Auth：[Cryin'](https://github.com/Cryin)
 
 ### 概述
 

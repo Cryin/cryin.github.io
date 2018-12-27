@@ -4,7 +4,7 @@ title: SpringBoot应用监控Actuator使用的安全隐患
 ---
 
 
-Auth by Cryin
+Auth by Cryin'
 
 ### 概述
 
