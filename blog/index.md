@@ -8,6 +8,8 @@ Blog posted within Cryin, listed in reverse chronological order.
 
 ---
 * 2018
+  * [CVE-2018-16621 Nexus Repository Manager3 EL Injection](CVE-2018-16621 Nexus Repository Manager3 EL Injection.md). 2018.11.22
+  * [CVE-2018-14667 - JBoss RichFaces EL Injection RCE Analysis](CVE-2018-14667 - JBoss RichFaces EL Injection RCE Analysis.md). 2018.11.17
   * [CVE-2018-1260 spring-security-oauth2 RCE Analysis](CVE-2018-1260 spring-security-oauth2 RCE Analysis.md). 2018.10.05
   * [GitLab web hooks SSRF(CVE-2018-8801) Patch analysis and How to safely fix SSRF](GitLab_web_hooks_SSRF_Patch_analysis.md). 2018.05.02
   * [SpringBoot应用监控Actuator使用的安全隐患](springboot_actuator_security_tips.md). 2018.03.29

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cryin
+title: Cryin'
 ---
 
 <!-- ![The Cryin logo should be here :( ](/pics/logo.png) -->
