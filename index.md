@@ -11,7 +11,7 @@ Enjoy Programming,Enjoy Hacking,Enjoy life!
 
 SDLC,Java Static Code Analysis,Web Security Research,Code Audit, Web Vulnerability Analysis
 
-Now working on public cloud (tech.antfin.com) applications security research for Ant Financial
+Now working on public cloud applications sdl and security research !
 
 Member of insight-labs
 
