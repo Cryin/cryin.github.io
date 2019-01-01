@@ -7,11 +7,11 @@ title: Cryin'
 
 <!--# [Paper](https://cryin.github.io/) - [About Me](https://cryin.github.io/)-->
 
-Enjoy Programming,Enjoy Hacking,Enjoy life!
+Enjoy Hacking,Enjoy Programming,Enjoy life!
 
 SDLC,Java Static Code Analysis,Web Security Research,Code Audit, Web Vulnerability Analysis
 
-Now working on public cloud applications sdl and security research !
+Now working on public cloud applications SDL and Web Security Research !
 
 Member of insight-labs
 
