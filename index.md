@@ -9,9 +9,11 @@ title: Cryin'
 
 Enjoy Hacking,Enjoy Programming,Enjoy life!
 
-SDLC,Java Static Code Analysis,Web Security Research,Code Audit, Web Vulnerability Analysis
+SDLC,Static Code Analysis,Web Security Research,Traffic Analysis,API Security
 
-Now working on public cloud applications SDL and Web Security Research !
+Worked for NSFOCUS, Huawei, Alipay
+
+Now working on Traffic Analysis&API Security at ByteDance !
 
 Member of insight-labs
 
